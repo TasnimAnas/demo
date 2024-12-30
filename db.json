@@ -10,5 +10,30 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "settings": {
+    "key": "status 2",
+    "label": "Status 2",
+    "setting": {
+        "anchorOrigin": {
+            "vertical": "bottom",
+            "horizontal": "right"
+        },
+        "transformOrigin": {
+            "vertical": "top",
+            "horizontal": "right"
+        },
+        "type": "select",
+        "options": [
+            {
+                "value": "droip",
+                "title": "Only droip elements"
+            },
+            {
+                "value": "full",
+                "title": "Full website"
+            }
+        ]
+    }
   }
 }
