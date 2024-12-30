@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "settings": {
-    "key": "status 2",
-    "label": "Status 2",
+    "key": "status",
+    "label": "Show",
     "setting": {
         "anchorOrigin": {
             "vertical": "bottom",
